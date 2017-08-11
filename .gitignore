@@ -1,0 +1,12 @@
+answer_info_1000.txt
+corpus
+corpus.index
+dict
+*.txt
+*.model
+*.tar.gz
+dict
+*.npy
+pickle
+itchat.pkl
+ma/*
